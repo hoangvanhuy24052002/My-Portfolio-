@@ -66,7 +66,7 @@ function Contact() {
               <div className="contact-icon">📧</div>
               <div className="contact-text">
                 <h4>Email</h4>
-                <a href="mailto:your.email@example.com">your.email@example.com</a>
+                <a href="mailto:your.email@example.com">hoangvanhuy2405@gmail.com</a>
               </div>
             </div>
             
@@ -74,7 +74,7 @@ function Contact() {
               <div className="contact-icon">📱</div>
               <div className="contact-text">
                 <h4>Phone</h4>
-                <a href="tel:+1234567890">+1 (234) 567-890</a>
+                <a href="tel:+1234567890">+1 (236) 979-8675</a>
               </div>
             </div>
             
@@ -82,15 +82,15 @@ function Contact() {
               <div className="contact-icon">📍</div>
               <div className="contact-text">
                 <h4>Location</h4>
-                <p>City, Country</p>
+                <p>Burnaby, BC, Canada</p>
               </div>
             </div>
           </div>
           
           <div className="social-links">
-            <a href="#" className="social-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://github.com/hoangvanhuy24052002" className="social-link" target="_blank" rel="noopener noreferrer">GitHub</a>
             <a href="#" className="social-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="#" className="social-link" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <a href="https://www.facebook.com/HuyHoang24052002/" className="social-link" target="_blank" rel="noopener noreferrer">Facebook</a>
           </div>
         </div>
         
