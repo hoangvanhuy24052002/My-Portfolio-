@@ -36,7 +36,7 @@ function Contact() {
       return;
     }
     
-    // Here you would typically send the form data to a server or API
+    // Here I would typically send the form data to a server or API
     // For now, we'll just simulate a successful submission
     setFormStatus({
       message: 'Your message has been sent successfully!',
