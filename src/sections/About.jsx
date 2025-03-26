@@ -18,16 +18,16 @@ function About() {
             <h2 className="section-title">About Me</h2>
             <h3>Who am I?</h3>
             <p>
-              Hello! I'm a passionate frontend developer with a strong foundation in HTML, CSS, and JavaScript. 
+              Hello! I'm a passionate <span className="hightlight">Frontend Developer</span> with a strong foundation in <span className="hightlight">HTML, CSS, and JavaScript.</span> 
               I specialize in building responsive, user-friendly web applications using modern frameworks like React.
             </p>
             <p>
-              My journey in web development started in [Year], and since then, I've been constantly learning 
+              My journey in web development started in 2022, and since then, I've been constantly learning 
               and improving my skills to stay up-to-date with the latest technologies and best practices.
             </p>
             <h3>Education & Experience</h3>
             <p>
-              I graduated with a degree in [Your Degree] from [University/College]. 
+              I graduated with a degree in <span className="hightlight">CSIS Degree </span>from <span className="hightlight">Douglas College.</span>
               I've worked on various projects, from small business websites to complex web applications, 
               gaining valuable experience along the way.
             </p>

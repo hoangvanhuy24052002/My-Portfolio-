@@ -32,6 +32,7 @@
 
 .about-text {
   flex: 1;
+  
 }
 
 .about-text h3 {
@@ -49,6 +50,14 @@
   display: flex;
   gap: 1rem;
   margin-top: 2rem;
+}
+
+.hightlight {
+  font-weight: bold;
+  color: #0070f3; /* Choose a color to make it stand out */
+  background-color: rgba(0, 112, 243, 0.1); /* Optional: Add a subtle background */
+  padding: 0.2rem 0.4rem; /* Optional: Add some padding */
+  border-radius: 4px; /* Optional: Add rounded corners */
 }
 
 @media (max-width: 992px) {

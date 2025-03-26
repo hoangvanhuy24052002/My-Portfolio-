@@ -29,7 +29,7 @@ function Header() {
 
   return (
     <header className={`header ${scrolled ? 'scrolled' : ''}`}>
-      <div className="logo">My Porfolio</div>
+      <div className="logo">My Portfolio</div>
       
       <div className="mobile-menu-icon" onClick={toggleMenu}>
         <div className={`menu-icon ${isMenuOpen ? 'open' : ''}`}>
